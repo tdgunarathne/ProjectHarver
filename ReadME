@@ -1,0 +1,5 @@
+1. create separate classes for separate functions
+2.all the web elements and methods are implemented using page object design pattern.
+3.in TestMethods class includes all the test cases with annotations.
+4.needs to run TestMethods class only to run the test cases.
+ 
